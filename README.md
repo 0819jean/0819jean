@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Chuang</h1>
+<p align="center">
+  <img src="./banner-new.png" width="100%" alt="Chuang GitHub Banner">
+</p>
+Hi 👋, I'm Chuang</h1>
 
 <h3 align="center">
 Computer Science Student | AI Applications | Software Development
